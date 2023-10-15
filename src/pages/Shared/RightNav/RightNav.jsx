@@ -1,9 +1,8 @@
 /* eslint-disable no-unused-vars */
 import React from "react";
 import { Button, Container, ListGroup } from "react-bootstrap";
-import { FaGoogle, FaGithub, FaFacebook, FaTwitter, FaInstagram } from "react-icons/fa";
+import { FaGoogle, FaGithub, FaFacebook, FaTwitter, FaInstagram} from "react-icons/fa";
 import QZone from "../QZone/QZone";
-import bg from '../../../assets/bg.png'
 
 const RightNav = () => {
   return (
