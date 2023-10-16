@@ -4,7 +4,7 @@ import { initializeApp } from "firebase/app";
 // https://firebase.google.com/docs/web/setup#available-libraries
 
 
-console.log('environment Variable', import.meta.env.VITE_PASS);
+// console.log('environment Variable', import.meta.env.VITE_PASS);
 
 // Your web app's Firebase configuration
 const firebaseConfig = {
